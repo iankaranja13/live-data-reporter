@@ -1,0 +1,11 @@
+[2025-06-26 20:59:23.090490] Astronauts - Success
+[2025-06-26 20:59:40.910785] News - Failed - 'articles'
+[2025-06-26 21:01:12.991258] News - Failed - 'articles'
+[2025-06-26 21:03:25.604784] Stock - Success
+[2025-06-26 21:14:19.634613] Astronauts - Success
+[2025-06-26 21:14:23.739381] ISS Position - Success
+[2025-06-26 21:14:27.175926] NewsAPI - Failed - NewsAPI error: Your API key is invalid or incorrect. Check your key, or go to https://newsapi.org to create a free API key.
+[2025-06-26 21:18:13.054353] ISS Position - Success
+[2025-06-26 21:18:13.690910] ISS Position - Success
+[2025-06-26 21:18:17.315117] ISS Position - Success
+[2025-06-26 21:18:17.949094] Astronauts - Success

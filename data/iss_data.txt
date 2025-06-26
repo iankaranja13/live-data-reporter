@@ -1,0 +1,58 @@
+
+[2025-06-26 20:59:23.092386] Astronauts in space:
+ - Oleg Kononenko aboard ISS
+ - Nikolai Chub aboard ISS
+ - Tracy Caldwell Dyson aboard ISS
+ - Matthew Dominick aboard ISS
+ - Michael Barratt aboard ISS
+ - Jeanette Epps aboard ISS
+ - Alexander Grebenkin aboard ISS
+ - Butch Wilmore aboard ISS
+ - Sunita Williams aboard ISS
+ - Li Guangsu aboard Tiangong
+ - Li Cong aboard Tiangong
+ - Ye Guangfu aboard Tiangong
+
+[2025-06-26 21:14:19.636103] Astronauts in space:
+ - Oleg Kononenko aboard ISS
+ - Nikolai Chub aboard ISS
+ - Tracy Caldwell Dyson aboard ISS
+ - Matthew Dominick aboard ISS
+ - Michael Barratt aboard ISS
+ - Jeanette Epps aboard ISS
+ - Alexander Grebenkin aboard ISS
+ - Butch Wilmore aboard ISS
+ - Sunita Williams aboard ISS
+ - Li Guangsu aboard Tiangong
+ - Li Cong aboard Tiangong
+ - Ye Guangfu aboard Tiangong
+
+[2025-06-26 21:14:23.739778] ISS Position:
+ - Latitude: 45.7166
+ - Longitude: -163.4014
+
+[2025-06-26 21:18:13.055830] ISS Position:
+ - Latitude: 37.6255
+ - Longitude: -147.6949
+
+[2025-06-26 21:18:13.691515] ISS Position:
+ - Latitude: 37.5852
+ - Longitude: -147.6350
+
+[2025-06-26 21:18:17.315589] ISS Position:
+ - Latitude: 37.4441
+ - Longitude: -147.4260
+
+[2025-06-26 21:18:17.949676] Astronauts in space:
+ - Oleg Kononenko aboard ISS
+ - Nikolai Chub aboard ISS
+ - Tracy Caldwell Dyson aboard ISS
+ - Matthew Dominick aboard ISS
+ - Michael Barratt aboard ISS
+ - Jeanette Epps aboard ISS
+ - Alexander Grebenkin aboard ISS
+ - Butch Wilmore aboard ISS
+ - Sunita Williams aboard ISS
+ - Li Guangsu aboard Tiangong
+ - Li Cong aboard Tiangong
+ - Ye Guangfu aboard Tiangong
